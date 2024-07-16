@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #27292c;
+    color: white;
+    text-align: center;
+    background-color: darkgreen;
+}
+h1 {
+    margin-top: 40px;
+    color: goldenrod;
+}
+#message-el
+{
+    font-style: italic;
+}
+#start-btn{
+    color: #016f32;
+    width: 150px;
+    border:none;
+    height: 50px;
+    font-weight: bold;
+    background-color:goldenrod;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+#new-btn{
+       color: #016f32;
+    width: 150px;
+    border:none;
+    height: 50px;
+    font-weight: bold;
+    background-color:goldenrod;
+    border-radius: 5px;
+    margin-top: 5px;
+}
